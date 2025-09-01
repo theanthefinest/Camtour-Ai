@@ -1,0 +1,12 @@
+pip install --upgrade pip
+trl
+gc 
+torch==2.1.2 
+transformers==4.36.2 
+datasets==2.15.0 
+accelerate==0.25.0 
+peft==0.7.1 
+bitsandbytes==0.41.3 
+scipy==1.11.4 
+tensorboardx==2.6.2.2 
+flash-attn==2.5.0 
