@@ -89,6 +89,6 @@ The training augmentation techniques and optimizations are documented with detai
 
 ## 👨‍💻 Author
 
-**Zhang Jiang**
+**LY Chhaythean** (Zhang Jiang)
 
 *Happy fine-tuning! 🚀*
